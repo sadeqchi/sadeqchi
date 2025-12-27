@@ -23,3 +23,5 @@ And actually, I love JavaScript
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
   
 ### Stay in touch:
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/sadeq_chi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/sadeqchi)
